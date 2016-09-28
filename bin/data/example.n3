@@ -1,0 +1,206 @@
+<http://apollo.nasa.gov/KB#RCSSystems> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#RCSRoll> .
+<http://apollo.nasa.gov/KB#RCSSystems> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#RCSPitch> .
+<http://apollo.nasa.gov/KB#RCSSystems> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#RCSYaw> .
+<http://apollo.nasa.gov/KB#RCSSystems> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#Helium> .
+<http://apollo.nasa.gov/KB#RCSSystems> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#Oxidizer> .
+<http://apollo.nasa.gov/KB#RCSSystems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+<http://apollo.nasa.gov/KB#PassiveThermalControl> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#Radiators> .
+<http://apollo.nasa.gov/KB#PassiveThermalControl> <http://139.uib.no/INFO216/jtms#hasOpposition> <http://apollo.nasa.gov/KB#NoRoll> .
+<http://apollo.nasa.gov/KB#PassiveThermalControl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+<http://apollo.nasa.gov/KB#NoRoll> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://apollo.nasa.gov/KB#GET_56_23_06> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://www.w3.org/ns/prov#wasAttributedTo> <http://apollo.nasa.gov/KB#mcc> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticweb.cs.vu.nl/2009/11/sem/Event> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://semanticweb.cs.vu.nl/2009/11/sem/hasTimeStamp> "02:09:30:38" .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#mcc> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace> <http://apollo.nasa.gov/KB#mcc> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#johnleonardswigertjr> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://www.w3.org/ns/prov#value> " Okay, Jack. Let's keep the water; no need for a dump right now.  " .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://www.w3.org/ns/prov#wasAssociatedWith> <http://apollo.nasa.gov/KB#johnleonardswigertjr> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://www.w3.org/ns/prov#atLocation> <http://apollo.nasa.gov/KB#mcc> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://www.w3.org/ns/prov#value> <http://apollo.nasa.gov/KB#GET_57_30_38> .
+<http://apollo.nasa.gov/KB#GET_57_30_38> <http://www.w3.org/ns/prov#wasQuotedFrom> <https://github.com/Spacelog/Spacelog/> .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://purl.org/dc/elements/1.1/description> "NASA Astronaut, Pilot"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/parents> "Virginia Swigert"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/children> "none"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/name> "Swigert, John Leonard, Jr."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://xmlns.com/foaf/0.1/name> "Swigert, John Leonard, Jr."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://www.w3.org/2000/01/rdf-schema#label> "Jack Swigert"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/dateOfRet> "August 1977"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://www.w3.org/2000/01/rdf-schema#comment> "John Leonard \"Jack\" Swigert, Jr. (August 30, 1931 – December 27, 1982) was an American test pilot, mechanical and aerospace engineer, United States Air Force pilot, and NASA astronaut, one of the 24 people who have flown to the Moon.Before joining NASA in 1966, Swigert was a civilian test pilot and fighter pilot in the Air National Guard. After leaving NASA, he was elected to Congress from Colorado's new 6th district, but died before being sworn in."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/caption> "Swigert in April 1970"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/name> "John L. Swigert, Jr."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/precededed> "District Created"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/othername> "John Leonard Swigert, Jr."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/nationality> "American"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/office> "Member-elect of the United States House of Representatives from"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/status> "Deceased"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/shortDescription> "NASA Astronaut, Pilot"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/spouse> "none"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/birthPlace> "Denver, Colorado, U.S."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://xmlns.com/foaf/0.1/name> "John L. Swigert, Jr."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/placeOfDeath> "Washington D.C., U.S."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/almaMater> "MBA 1967"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/placeOfBirth> "Denver, Colorado, U.S."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/parents> "John L. Swigert, M.D."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/ontology/abstract> "John Leonard \"Jack\" Swigert, Jr. (August 30, 1931 – December 27, 1982) was an American test pilot, mechanical and aerospace engineer, United States Air Force pilot, and NASA astronaut, one of the 24 people who have flown to the Moon.Before joining NASA in 1966, Swigert was a civilian test pilot and fighter pilot in the Air National Guard. After leaving NASA, he was elected to Congress from Colorado's new 6th district, but died before being sworn in."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/office> "Colorado's 6th district"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/deathPlace> "Washington D.C., U.S."@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/almaMater> "Rensselaer Polytechnic Institute, M.S. 1965"@en .
+<http://apollo.nasa.gov/KB#johnleonardswigertjr> <http://dbpedia.org/property/almaMater> "B.S. 1953"@en .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://www.w3.org/ns/prov#value> "And 2 Baker, which is 3 oxygen, says 0.6.  " .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://www.w3.org/ns/prov#wasAttributedTo> <http://apollo.nasa.gov/KB#fredwallacehaisejr> .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://www.w3.org/ns/prov#atLocation> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://semanticweb.cs.vu.nl/2009/11/sem/hasTimeStamp> "02:08:06:44" .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#fredwallacehaisejr> .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://www.w3.org/ns/prov#value> <http://apollo.nasa.gov/KB#GET_56_06_44> .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://www.w3.org/ns/prov#wasQuotedFrom> <https://github.com/Spacelog/Spacelog/> .
+<http://apollo.nasa.gov/KB#GET_56_06_44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticweb.cs.vu.nl/2009/11/sem/Event> .
+<http://apollo.nasa.gov/KB#FredOk> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://apollo.nasa.gov/KB#GET_57_43_15> .
+<http://apollo.nasa.gov/KB#FredOk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Premise> .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://www.w3.org/2000/01/rdf-schema#label> "Jim Lovell"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "National Defense Service Medal ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "NasaDisRib.gif"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://xmlns.com/foaf/0.1/name> "James Lovell"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/shortDescription> "American astronaut"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/type> "NASA astronaut"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "Presidential Medal of Freedom .png"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "Navy Expeditionary ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "Legion Honneur Commandeur ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/type> "oak"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "USA - NASA Excep Rib.png"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://xmlns.com/foaf/0.1/name> "Lovell, Jim"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://xmlns.com/foaf/0.1/givenName> "Jim"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/type> "service-star"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/name> "James Lovell"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://xmlns.com/foaf/0.1/surname> "Lovell"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/status> "Retired"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://purl.org/dc/elements/1.1/description> "American astronaut"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "China Service Medal ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "Navy and Marine Corps Commendation ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://www.w3.org/2000/01/rdf-schema#comment> "James Arthur \"Jim\" Lovell, Jr. (born March 25, 1928) is a former NASA astronaut and a retired captain in the United States Navy, most famous as the commander of the Apollo 13 mission, which suffered a critical failure en route to the Moon but was brought back safely to Earth by the efforts of the crew and mission control. Lovell was also the command module pilot of Apollo 8, the first Apollo mission to enter lunar orbit."@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "Navy Distinguished Service ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "World War II Victory Medal ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "CongSpaceRib.png"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/type> "award-star"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "Distinguished Flying Cross ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/name> "Lovell, Jim"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/ontology/abstract> "James Arthur \"Jim\" Lovell, Jr. (born March 25, 1928) is a former NASA astronaut and a retired captain in the United States Navy, most famous as the commander of the Apollo 13 mission, which suffered a critical failure en route to the Moon but was brought back safely to Earth by the efforts of the crew and mission control. Lovell was also the command module pilot of Apollo 8, the first Apollo mission to enter lunar orbit. Lovell is a recipient of the Congressional Space Medal of Honor and the Presidential Medal of Freedom. He is one of only 24 people to have flown to the Moon, the first of only three people to fly to the Moon twice, and the only one to have flown there twice without making a landing. Lovell was also the first person to fly in space four times."@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/nationality> "American"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://xmlns.com/foaf/0.1/name> "Jim Lovell"@en .
+<http://apollo.nasa.gov/KB#jamesarthurlovelljr> <http://dbpedia.org/property/ribbon> "Air Medal ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#JimOk> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://apollo.nasa.gov/KB#GET_57_53_26> .
+<http://apollo.nasa.gov/KB#JimOk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Premise> .
+<http://apollo.nasa.gov/KB#Water> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://apollo.nasa.gov/KB#GET_57_30_38> .
+<http://apollo.nasa.gov/KB#Water> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Premise> .
+<http://apollo.nasa.gov/KB#ElectricalSystems> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#ElectricalPower> .
+<http://apollo.nasa.gov/KB#ElectricalSystems> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#Water> .
+<http://apollo.nasa.gov/KB#ElectricalSystems> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#Radiators> .
+<http://apollo.nasa.gov/KB#ElectricalSystems> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#Hydrogen> .
+<http://apollo.nasa.gov/KB#ElectricalSystems> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#Oxygen> .
+<http://apollo.nasa.gov/KB#ElectricalSystems> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#FuelCell> .
+<http://apollo.nasa.gov/KB#ElectricalSystems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#GET_57_53_56> .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://www.w3.org/ns/prov#atLocation> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://www.w3.org/ns/prov#value> "Okay. Pull the BYPASS; GLYCOL PUMP going off.  " .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://www.w3.org/ns/prov#wasQuotedFrom> <https://github.com/Spacelog/Spacelog/> .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://www.w3.org/ns/prov#wasAttributedTo> <http://apollo.nasa.gov/KB#johnleonardswigertjr> .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#johnleonardswigertjr> .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticweb.cs.vu.nl/2009/11/sem/Event> .
+<http://apollo.nasa.gov/KB#GET_57_53_56> <http://semanticweb.cs.vu.nl/2009/11/sem/hasTimeStamp> "02:09:53:56" .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://www.w3.org/ns/prov#atLocation> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#mcc> .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://www.w3.org/ns/prov#value> "You got another one?  " .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://www.w3.org/ns/prov#wasAttributedTo> <http://apollo.nasa.gov/KB#fredwallacehaisejr> .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://www.w3.org/ns/prov#wasAssociatedWith> <http://apollo.nasa.gov/KB#mcc> .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://www.w3.org/ns/prov#wasQuotedFrom> <https://github.com/Spacelog/Spacelog/> .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#GET_57_43_15> .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#fredwallacehaisejr> .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://semanticweb.cs.vu.nl/2009/11/sem/hasTimeStamp> "02:09:43:15" .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticweb.cs.vu.nl/2009/11/sem/Event> .
+<http://apollo.nasa.gov/KB#GET_57_43_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+<http://apollo.nasa.gov/KB#EngineBellDamaged> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Premise> .
+<http://dbpedia.org/resource/Jim_Lovell> <http://www.w3.org/2002/07/owl#sameAs> "http://apollo.nasa.gov/KB#jamesarthurlovelljr" .
+<http://apollo.nasa.gov/KB#Medical> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#Crew> .
+<http://apollo.nasa.gov/KB#Medical> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#JackOk> .
+<http://apollo.nasa.gov/KB#Medical> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#JimOk> .
+<http://apollo.nasa.gov/KB#Medical> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#FredOk> .
+<http://apollo.nasa.gov/KB#Medical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+<http://apollo.nasa.gov/KB#Crew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Belief> .
+<http://apollo.nasa.gov/KB#HydrogenTanks> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#Hydrogen> .
+<http://apollo.nasa.gov/KB#HydrogenTanks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+<http://apollo.nasa.gov/KB#AviationAbility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Belief> .
+<http://dbpedia.org/resource/Fred_Haise> <http://www.w3.org/2002/07/owl#sameAs> "http://apollo.nasa.gov/KB#fredwallacehaisejr" .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://semanticweb.cs.vu.nl/2009/11/sem/hasTimeStamp> "02:08:23:06" .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://www.w3.org/ns/prov#wasAttributedTo> <http://apollo.nasa.gov/KB#johnleonardswigertjr> .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#johnleonardswigertjr> .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticweb.cs.vu.nl/2009/11/sem/Event> .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://www.w3.org/ns/prov#value> "It's negative pitch and negative roll.  " .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://www.w3.org/ns/prov#value> <http://apollo.nasa.gov/KB#GET_56_23_06> .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://www.w3.org/ns/prov#atLocation> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://www.w3.org/ns/prov#wasQuotedFrom> <https://github.com/Spacelog/Spacelog/> .
+<http://apollo.nasa.gov/KB#GET_56_23_06> <http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#Oxidizers> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#Oxidizer> .
+<http://apollo.nasa.gov/KB#Oxidizers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+<http://apollo.nasa.gov/KB#RateControl> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#AviationAbility> .
+<http://apollo.nasa.gov/KB#RateControl> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#ElectricalPower> .
+<http://apollo.nasa.gov/KB#RateControl> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#SPS> .
+<http://apollo.nasa.gov/KB#RateControl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+<http://apollo.nasa.gov/KB#Oxygen> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://apollo.nasa.gov/KB#GET_56_06_44> .
+<http://apollo.nasa.gov/KB#Oxygen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Premise> .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://www.w3.org/ns/prov#atLocation> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#jamesarthurlovelljr> .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://semanticweb.cs.vu.nl/2009/11/sem/hasTimeStamp> "02:09:53:26" .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://www.w3.org/ns/prov#wasQuotedFrom> <https://github.com/Spacelog/Spacelog/> .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://www.w3.org/ns/prov#value> "Okay. Panel 11, close SUIT FAN circuit breaker, and we'll get the suit fan cranked up.  " .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://semanticweb.cs.vu.nl/2009/11/sem/Event> .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://www.w3.org/ns/prov#wasAttributedTo> <http://apollo.nasa.gov/KB#jamesarthurlovelljr> .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://semanticweb.cs.vu.nl/2009/11/sem/hasActor> <http://apollo.nasa.gov/KB#GET_57_53_26> .
+<http://apollo.nasa.gov/KB#GET_57_53_26> <http://semanticweb.cs.vu.nl/2009/11/sem/hasPlace> <http://apollo.nasa.gov/KB#apollo13> .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/ribbon> "USA - NASA Excep Rib.png"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/almaMater> "University of Oklahoma, B.S. 1959"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/placeOfBirth> "Biloxi, Mississippi, U.S."@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/ontology/abstract> "Fred Wallace Haise, Jr. (/ˈheɪz/ HAYZ; born November 14, 1933) is an American aeronautical engineer, former naval aviator, fighter pilot, test pilot, and NASA astronaut. He is one of only 24 people to have flown to the Moon, having flown as Lunar Module Pilot on Apollo 13. He was to have been the sixth person to land and walk on the Moon, but the mission had to be aborted due to a spacecraft failure. He went on to fly Space Shuttle Approach and Landing Tests in 1977, and retired from NASA in 1979."@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/type> "service-star"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/status> "Retired"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/ribbon> "Presidential_Medal_of_Freedom_.png"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/ribbon> "National Defense Service Medal ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/caption> "Haise in 1969"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/name> "Haise, Fred Wallace, Jr."@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/ribbon> "NasaDisRib.gif"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/type> "oak"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/birthPlace> "Biloxi, Mississippi, U.S."@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://xmlns.com/foaf/0.1/name> "Haise, Fred Wallace, Jr."@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://purl.org/dc/elements/1.1/description> "American astronaut"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/shortDescription> "American astronaut"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://www.w3.org/2000/01/rdf-schema#comment> "Fred Wallace Haise, Jr. (/ˈheɪz/ HAYZ; born November 14, 1933) is an American aeronautical engineer, former naval aviator, fighter pilot, test pilot, and NASA astronaut. He is one of only 24 people to have flown to the Moon, having flown as Lunar Module Pilot on Apollo 13. He was to have been the sixth person to land and walk on the Moon, but the mission had to be aborted due to a spacecraft failure."@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/ribbon> "ResMedRib.svg"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/otherNames> "Fred Wallace Haise, Jr."@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/ribbon> "Air Force Longevity Service ribbon.svg"@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://xmlns.com/foaf/0.1/name> "Fred W. Haise, Jr."@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://dbpedia.org/property/name> "Fred W. Haise, Jr."@en .
+<http://apollo.nasa.gov/KB#fredwallacehaisejr> <http://www.w3.org/2000/01/rdf-schema#label> "Fred Haise"@en .
+<http://apollo.nasa.gov/KB#FuelCells> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#FuelCell> .
+<http://apollo.nasa.gov/KB#FuelCells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+_:B07b8c4c425eaba55fb751ce666cdfc10 <http://www.w3.org/2002/07/owl#versionInfo> "1" .
+<http://dbpedia.org/resource/Jack_Swigert> <http://www.w3.org/2002/07/owl#sameAs> "http://apollo.nasa.gov/KB#johnleonardswigertjr" .
+<http://apollo.nasa.gov/KB#SPSSystems> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#SPS> .
+<http://apollo.nasa.gov/KB#SPSSystems> <http://139.uib.no/INFO216/jtms#hasOpposition> <http://apollo.nasa.gov/KB#EngineBellDamaged> .
+<http://apollo.nasa.gov/KB#SPSSystems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+<http://apollo.nasa.gov/KB#JackOk> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://apollo.nasa.gov/KB#GET_57_53_56> .
+<http://apollo.nasa.gov/KB#JackOk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Premise> .
+<http://apollo.nasa.gov/KB#AttitudeControl> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#AviationAbility> .
+<http://apollo.nasa.gov/KB#AttitudeControl> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#RCSRoll> .
+<http://apollo.nasa.gov/KB#AttitudeControl> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#RCSPitch> .
+<http://apollo.nasa.gov/KB#AttitudeControl> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#RCSYaw> .
+<http://apollo.nasa.gov/KB#AttitudeControl> <http://139.uib.no/INFO216/jtms#hasSupport> <http://apollo.nasa.gov/KB#ElectricalPower> .
+<http://apollo.nasa.gov/KB#AttitudeControl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .
+<http://apollo.nasa.gov/KB#HeliumDisks> <http://139.uib.no/INFO216/jtms#justifies> <http://apollo.nasa.gov/KB#Helium> .
+<http://apollo.nasa.gov/KB#HeliumDisks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://139.uib.no/INFO216/jtms#Justification> .

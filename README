@@ -1,0 +1,28 @@
+What is this:
+    It is a TMS with annotation support, made for the Apollo 13 mission.
+    Add Beliefs and Justifications, or see the example on how it is done. 
+
+Dependencies:
+    - MigLayout 5.1 Swing+Core ( https://oss.sonatype.org/content/repositories/snapshots/com/miglayout/ )
+    - Commons Validator 1.5 ( https://commons.apache.org/proper/commons-validator/download_validator.cgi )
+    - jgraphx ( https://www.jgraph.com/ )
+    - Jena
+    - Java 1.8
+    - Fuseki 1.x
+    
+Set up fuseki:
+    Either run on localhost:3030 and use the data set /info216, 
+    or change the references in Main.java.
+    
+    I run fuseki like this:
+        ./fuseki-server --loc=/tmp/fuseki -update /info216
+
+    After you've started fuseki, you can upload src/data/example.n3 into
+    the /info216 dataset to the graph <http://apollo.nasa.gov/KnowledgeBase>.
+    
+    The example data show a sample of the model of the
+    Apollo 13 situation at ~57 GET. 
+    
+Example data:
+    Upload src/data/example.n3 to the Fuseki server and add it to the
+    /info216 dataset and the graph <http://apollo.nasa.gov/KnowledgeBase>.
